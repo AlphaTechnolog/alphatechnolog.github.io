@@ -5,6 +5,6 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://alphatechnolog.github.io",
+  site: "https://is-a.dev",
   integrations: [tailwind(), icon()]
 });
